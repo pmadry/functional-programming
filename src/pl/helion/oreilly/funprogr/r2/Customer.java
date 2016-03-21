@@ -216,6 +216,8 @@ class Customer {
         allCustomers.add(customer_2);
         allCustomers.add(customer_3);
         allCustomers.add(customer_4);
+        allCustomers.add(customer_4);
+
 
 
 /*        Contract.setContractForCustomer(2, false);
